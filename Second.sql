@@ -1,1 +1,1 @@
-select * from tab;
+select table_name from tab;
